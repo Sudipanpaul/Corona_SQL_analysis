@@ -17,7 +17,8 @@ For presentaion purpose PowerPoint has been used
 ![image](https://github.com/Sudipanpaul/Corona_SQL_analysis/assets/86123960/44a2e9e4-4175-4669-834b-222ef2af7bd8)
 ![image](https://github.com/Sudipanpaul/Corona_SQL_analysis/assets/86123960/384f66f7-e3cb-42f7-92f9-de49c5d7e532)
 ![image](https://github.com/Sudipanpaul/Corona_SQL_analysis/assets/86123960/5bc94b00-dd60-4850-9252-aa2ecfb9c1cd)
-![image](https://github.com/Sudipanpaul/Corona_SQL_analysis/assets/86123960/d394c408-8bea-4216-862a-087e5160d805)
+![image](https://github.com/Sudipanpaul/Corona_SQL_analysis/assets/86123960/f7608a9d-b329-489b-be3e-835a8beeb220)
+
 ![image](https://github.com/Sudipanpaul/Corona_SQL_analysis/assets/86123960/87716faa-bff4-4b79-81b8-bb37372ed6d0)
 ![image](https://github.com/Sudipanpaul/Corona_SQL_analysis/assets/86123960/c907da3c-51db-4680-8295-5fa4c6329f5a)
 ![image](https://github.com/Sudipanpaul/Corona_SQL_analysis/assets/86123960/d23c9ce2-3750-465c-bbca-8f83fe80fa84)
