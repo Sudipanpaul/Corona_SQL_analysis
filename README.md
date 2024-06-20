@@ -12,7 +12,8 @@ MySQL
 
 For presentaion purpose PowerPoint has been used
 
-![image](https://github.com/Sudipanpaul/Corona_SQL_analysis/assets/86123960/265a8ed9-b4de-4a08-846d-fd21057bf242)
+![image](https://github.com/Sudipanpaul/Corona_SQL_analysis/assets/86123960/6d4992c2-da07-4ce1-84e7-7b59e0efd8d7)
+
 ![image](https://github.com/Sudipanpaul/Corona_SQL_analysis/assets/86123960/72aeebbf-6fd8-42a7-81fa-d9908c28dc6c)
 ![image](https://github.com/Sudipanpaul/Corona_SQL_analysis/assets/86123960/44a2e9e4-4175-4669-834b-222ef2af7bd8)
 ![image](https://github.com/Sudipanpaul/Corona_SQL_analysis/assets/86123960/384f66f7-e3cb-42f7-92f9-de49c5d7e532)
